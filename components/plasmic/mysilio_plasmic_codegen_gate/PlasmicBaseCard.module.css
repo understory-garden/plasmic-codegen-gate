@@ -1,0 +1,95 @@
+.root {
+  display: flex;
+  width: 100%;
+  height: auto;
+  position: relative;
+  flex-direction: column;
+  box-shadow: 0px 20px 25px -5px rgba(0, 0, 0, 0.12),
+    0px 10px 10px -5px rgba(0, 0, 0, 0.02);
+  background: rgb(255, 255, 255);
+  min-width: 0;
+  border-radius: 5px;
+  padding: 20px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: calc(0px - 10px);
+  height: calc(100% + 10px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-top: 10px;
+}
+.root__long {
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.root__long > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+  margin-top: calc(0px - 0px);
+  height: calc(100% + 0px);
+}
+.root__long > :global(.__wab_flex-container) > *,
+.root__long > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root__long > :global(.__wab_flex-container) > picture > img,
+.root__long
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+  margin-top: 0px;
+}
+.freeBox__qEaFs {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__long__qEaFSzT4Km {
+  align-items: flex-start;
+}
+.slotChildren {
+  text-align: center;
+}
+.slotChildren__long {
+  text-align: left;
+}
+.freeBox__d15Gu {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox__long__d15GuzT4Km {
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 1px 1px 1px 0px rgb(234, 234, 234)
+    /* plasmic-token: bXVk6K6GGqsr */;
+  background: rgb(255, 255, 255);
+  flex-shrink: 0;
+  border-radius: 16px;
+  border: 1px solid rgb(234, 234, 234) /* plasmic-token: bXVk6K6GGqsr */;
+}
+.svg__h3DbY {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  flex-shrink: 0;
+}
