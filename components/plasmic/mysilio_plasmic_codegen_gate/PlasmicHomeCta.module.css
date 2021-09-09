@@ -47,14 +47,14 @@
     min-width: 0;
   }
 }
-.freeBox__yIUpj {
+.text__yIUpj {
   position: relative;
   color: rgb(255, 255, 255) /* plasmic-token: IJViPdnSV2xD */;
   font-size: 24px;
   font-weight: 700;
   line-height: 1;
 }
-.freeBox__kVoOo {
+.text__kVoOo {
   position: relative;
   color: rgb(176, 179, 184) /* plasmic-token: TRf5pfsHwLE */;
 }
@@ -130,7 +130,7 @@
 .linkButton:global(.__wab_instance) {
   position: relative;
 }
-.freeBox__etJpp {
+.text__etJpp {
   position: relative;
   color: rgb(101, 103, 107) /* plasmic-token: vaTuh5tFL3B */;
   font-size: 14px;

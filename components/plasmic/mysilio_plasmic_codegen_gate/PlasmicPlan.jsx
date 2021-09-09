@@ -59,7 +59,7 @@ function PlasmicPlan__RenderFunc(props) {
                 className={classNames(
                   defaultcss.all,
                   defaultcss.__wab_text,
-                  sty.freeBox__o2Yt2
+                  sty.text__o2Yt2
                 )}
               >
                 {"$10"}

@@ -89,7 +89,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__wPoS
+                sty.text__wPoS
               )}
             >
               {" · "}
@@ -124,7 +124,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox___7Wv8Q
+                sty.text___7Wv8Q
               )}
             >
               {"Products"}
@@ -205,7 +205,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__lyWuo
+                sty.text__lyWuo
               )}
             >
               {"Resources"}
@@ -286,7 +286,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__yxXmf
+                sty.text__yxXmf
               )}
             >
               {"Company"}
@@ -367,7 +367,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox___9BJdn
+                sty.text___9BJdn
               )}
             >
               {"Subscribe"}
@@ -377,7 +377,7 @@ function PlasmicFooter__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__p1Lf2
+                sty.text__p1Lf2
               )}
             >
               {"Get the latest news and articles to your inbox every month."}
@@ -449,7 +449,7 @@ function PlasmicFooter__RenderFunc(props) {
             className={classNames(
               defaultcss.all,
               defaultcss.__wab_text,
-              sty.freeBox__dRhH
+              sty.text__dRhH
             )}
           >
             {"All rights reserved."}

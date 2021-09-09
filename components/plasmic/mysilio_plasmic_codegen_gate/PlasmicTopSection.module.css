@@ -63,7 +63,7 @@
   align-items: stretch;
   justify-content: flex-start;
 }
-.freeBox__x27Vy {
+.text__x27Vy {
   font-size: 96px;
   font-weight: 700;
   text-align: center;
@@ -71,11 +71,11 @@
   color: rgb(5, 5, 5) /* plasmic-token: NEon4Y--Z */;
 }
 @media (min-width: 0px) and (max-width: 768px) {
-  .freeBox__x27Vy {
+  .text__x27Vy {
     font-size: 48px;
   }
 }
-.freeBox__iodV3 {
+.text__iodV3 {
   font-size: 96px;
   font-weight: 700;
   text-align: center;
@@ -91,7 +91,7 @@
   -webkit-background-clip: text;
 }
 @media (min-width: 0px) and (max-width: 768px) {
-  .freeBox__iodV3 {
+  .text__iodV3 {
     font-size: 48px;
   }
 }
@@ -108,13 +108,13 @@
   align-items: stretch;
   justify-content: flex-start;
 }
-.freeBox___1SrZr {
+.text___1SrZr {
   font-size: 20px;
   text-align: center;
   max-width: 768px;
 }
 @media (min-width: 0px) and (max-width: 768px) {
-  .freeBox___1SrZr {
+  .text___1SrZr {
     font-size: 24px;
   }
 }

@@ -52,7 +52,7 @@ function PlasmicHomeCta__RenderFunc(props) {
           className={classNames(
             defaultcss.all,
             defaultcss.__wab_text,
-            sty.freeBox__yIUpj
+            sty.text__yIUpj
           )}
         >
           {"Powering your business"}
@@ -62,7 +62,7 @@ function PlasmicHomeCta__RenderFunc(props) {
           className={classNames(
             defaultcss.all,
             defaultcss.__wab_text,
-            sty.freeBox__kVoOo
+            sty.text__kVoOo
           )}
         >
           {
@@ -98,7 +98,7 @@ function PlasmicHomeCta__RenderFunc(props) {
           className={classNames(
             defaultcss.all,
             defaultcss.__wab_text,
-            sty.freeBox__etJpp
+            sty.text__etJpp
           )}
         >
           {"7 days free trial. No credit card required."}

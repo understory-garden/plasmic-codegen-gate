@@ -105,7 +105,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox___1G03L
+                    sty.text___1G03L
                   )}
                 >
                   {"Powerful suite of tools"}
@@ -115,7 +115,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox___32Zvm
+                    sty.text___32Zvm
                   )}
                 >
                   {
@@ -139,7 +139,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox__tjvmd
+                    sty.text__tjvmd
                   )}
                 >
                   {
@@ -162,7 +162,6 @@ function PlasmicFeatures__RenderFunc(props) {
                 <img
                   alt={""}
                   className={classNames(defaultcss.img, sty.img__aont)}
-                  role={"img"}
                   src={
                     "/plasmic/mysilio_plasmic_codegen_gate/images/simpleProject.png"
                   }
@@ -171,7 +170,6 @@ function PlasmicFeatures__RenderFunc(props) {
                 <img
                   alt={""}
                   className={classNames(defaultcss.img, sty.img__ogvPh)}
-                  role={"img"}
                   src={"/plasmic/mysilio_plasmic_codegen_gate/images/task.png"}
                 />
               </div>
@@ -186,7 +184,6 @@ function PlasmicFeatures__RenderFunc(props) {
                 <img
                   alt={""}
                   className={classNames(defaultcss.img, sty.img__jrumd)}
-                  role={"img"}
                   src={
                     "/plasmic/mysilio_plasmic_codegen_gate/images/simpleProject.png"
                   }
@@ -195,7 +192,6 @@ function PlasmicFeatures__RenderFunc(props) {
                 <img
                   alt={""}
                   className={classNames(defaultcss.img, sty.img__bHmIn)}
-                  role={"img"}
                   src={"/plasmic/mysilio_plasmic_codegen_gate/images/task.png"}
                 />
               </div>
@@ -209,7 +205,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox__jxOxx
+                    sty.text__jxOxx
                   )}
                 >
                   {"Powerful suite of tools"}
@@ -219,7 +215,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox__csy2
+                    sty.text__csy2
                   )}
                 >
                   {
@@ -243,7 +239,7 @@ function PlasmicFeatures__RenderFunc(props) {
                   className={classNames(
                     defaultcss.all,
                     defaultcss.__wab_text,
-                    sty.freeBox__bgiRu
+                    sty.text__bgiRu
                   )}
                 >
                   {

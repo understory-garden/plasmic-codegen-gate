@@ -51,7 +51,7 @@ function PlasmicTopSection__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__x27Vy
+                sty.text__x27Vy
               )}
             >
               {"Mysilio"}
@@ -61,7 +61,7 @@ function PlasmicTopSection__RenderFunc(props) {
               className={classNames(
                 defaultcss.all,
                 defaultcss.__wab_text,
-                sty.freeBox__iodV3
+                sty.text__iodV3
               )}
             >
               {"Plasmic"}
@@ -74,10 +74,10 @@ function PlasmicTopSection__RenderFunc(props) {
                 className={classNames(
                   defaultcss.all,
                   defaultcss.__wab_text,
-                  sty.freeBox___1SrZr
+                  sty.text___1SrZr
                 )}
               >
-                {'Edit this content and hit "publish" to push it to  '}
+                {'Hey Ian, edit this content and hit "publish" to push it to  '}
               </div>
 
               <p.PlasmicLink
@@ -122,7 +122,6 @@ function PlasmicTopSection__RenderFunc(props) {
             data-plasmic-override={overrides.img}
             alt={""}
             className={classNames(defaultcss.img, sty.img)}
-            role={"img"}
             src={"/plasmic/mysilio_plasmic_codegen_gate/images/heroImage.png"}
           />
         </div>

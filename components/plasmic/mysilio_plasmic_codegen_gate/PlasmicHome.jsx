@@ -124,7 +124,7 @@ function PlasmicHome__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox__bthbY
+                      sty.text__bthbY
                     )}
                   >
                     {"Powerful suite of tools"}
@@ -134,7 +134,7 @@ function PlasmicHome__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox__cGp2
+                      sty.text__cGp2
                     )}
                   >
                     {
@@ -203,7 +203,6 @@ function PlasmicHome__RenderFunc(props) {
                   <img
                     alt={""}
                     className={classNames(defaultcss.img, sty.img__wgxLj)}
-                    role={"img"}
                     src={
                       "/plasmic/mysilio_plasmic_codegen_gate/images/simpleProject.png"
                     }
@@ -212,7 +211,6 @@ function PlasmicHome__RenderFunc(props) {
                   <img
                     alt={""}
                     className={classNames(defaultcss.img, sty.img__axTj)}
-                    role={"img"}
                     src={
                       "/plasmic/mysilio_plasmic_codegen_gate/images/task.png"
                     }

@@ -39,7 +39,6 @@ function PlasmicAvatar__RenderFunc(props) {
           <img
             alt={""}
             className={classNames(defaultcss.img, sty.img__gRavc)}
-            role={"img"}
             src={"/plasmic/mysilio_plasmic_codegen_gate/images/profilepic.png"}
           />
         ),

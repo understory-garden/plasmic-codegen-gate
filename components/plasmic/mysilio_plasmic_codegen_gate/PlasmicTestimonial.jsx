@@ -46,7 +46,6 @@ function PlasmicTestimonial__RenderFunc(props) {
             data-plasmic-override={overrides.img}
             alt={""}
             className={classNames(defaultcss.img, sty.img)}
-            role={"img"}
             src={"/plasmic/mysilio_plasmic_codegen_gate/images/profilepic.png"}
           />
         }
@@ -68,7 +67,7 @@ function PlasmicTestimonial__RenderFunc(props) {
           className={classNames(
             defaultcss.all,
             defaultcss.__wab_text,
-            sty.freeBox__dx4QK
+            sty.text__dx4QK
           )}
         >
           {
@@ -85,7 +84,7 @@ function PlasmicTestimonial__RenderFunc(props) {
             className={classNames(
               defaultcss.all,
               defaultcss.__wab_text,
-              sty.freeBox__sO24
+              sty.text__sO24
             )}
           >
             {"Darya Finger"}
@@ -95,7 +94,7 @@ function PlasmicTestimonial__RenderFunc(props) {
             className={classNames(
               defaultcss.all,
               defaultcss.__wab_text,
-              sty.freeBox__p7PO
+              sty.text__p7PO
             )}
           >
             {"CEO & Co-Founder @Dropbox"}

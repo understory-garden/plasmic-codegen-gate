@@ -102,7 +102,7 @@ function PlasmicPricing__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox__fkC8
+                      sty.text__fkC8
                     )}
                   >
                     {"$10"}
@@ -155,7 +155,7 @@ function PlasmicPricing__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox__pcsAe
+                      sty.text__pcsAe
                     )}
                   >
                     {"$49"}
@@ -173,7 +173,7 @@ function PlasmicPricing__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox__hXapq
+                      sty.text__hXapq
                     )}
                   >
                     {"$199"}
@@ -192,7 +192,7 @@ function PlasmicPricing__RenderFunc(props) {
                     className={classNames(
                       defaultcss.all,
                       defaultcss.__wab_text,
-                      sty.freeBox___0HScE
+                      sty.text___0HScE
                     )}
                   >
                     {
