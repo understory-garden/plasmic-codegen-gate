@@ -9,6 +9,7 @@
 // Plasmic Project: gErtg5ViHSLXLeffwUSREY
 // Component: BMN13fQiGcH
 import * as React from "react";
+import Link from "next/link";
 import * as p from "@plasmicapp/react-web";
 import {
   classNames,
@@ -53,7 +54,7 @@ function PlasmicTopSection__RenderFunc(props) {
                 sty.freeBox__x27Vy
               )}
             >
-              {"Make your website.."}
+              {"Mysilio"}
             </div>
 
             <div
@@ -63,20 +64,37 @@ function PlasmicTopSection__RenderFunc(props) {
                 sty.freeBox__iodV3
               )}
             >
-              {"wonderful"}
+              {"Plasmic"}
             </div>
           </div>
 
-          <div
-            className={classNames(
-              defaultcss.all,
-              defaultcss.__wab_text,
-              sty.freeBox__hpBzm
-            )}
-          >
-            {
-              "Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever."
-            }
+          <div className={classNames(defaultcss.all, sty.freeBox__hpBzm)}>
+            <div className={classNames(defaultcss.all, sty.freeBox___95T4)}>
+              <div
+                className={classNames(
+                  defaultcss.all,
+                  defaultcss.__wab_text,
+                  sty.freeBox___1SrZr
+                )}
+              >
+                {'Edit this content and hit "publish" to push it to  '}
+              </div>
+
+              <p.PlasmicLink
+                data-plasmic-name={"link"}
+                data-plasmic-override={overrides.link}
+                className={classNames(
+                  defaultcss.all,
+                  defaultcss.__wab_text,
+                  sty.link
+                )}
+                component={Link}
+                href={"https://plasmic-codegen-gate.understory.page/"}
+                platform={"nextjs"}
+              >
+                {"https://plasmic-codegen-gate.understory.page/"}
+              </p.PlasmicLink>
+            </div>
           </div>
         </p.Stack>
 
@@ -114,7 +132,8 @@ function PlasmicTopSection__RenderFunc(props) {
 }
 
 const PlasmicDescendants = {
-  root: ["root", "img"],
+  root: ["root", "link", "img"],
+  link: ["link"],
   img: ["img"]
 };
 
@@ -149,6 +168,7 @@ export const PlasmicTopSection = Object.assign(
   makeNodeComponent("root"),
   {
     // Helper components rendering sub-elements
+    link: makeNodeComponent("link"),
     img: makeNodeComponent("img"),
     // Metadata about props expected for PlasmicTopSection
     internalVariantProps: PlasmicTopSection__VariantProps,

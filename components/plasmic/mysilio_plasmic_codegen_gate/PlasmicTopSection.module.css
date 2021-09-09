@@ -96,16 +96,30 @@
   }
 }
 .freeBox__hpBzm {
+  position: relative;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+}
+.freeBox___95T4 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.freeBox___1SrZr {
   font-size: 20px;
   text-align: center;
   max-width: 768px;
-  position: relative;
-  align-self: center;
 }
 @media (min-width: 0px) and (max-width: 768px) {
-  .freeBox__hpBzm {
+  .freeBox___1SrZr {
     font-size: 24px;
   }
+}
+.link {
+  position: relative;
 }
 .freeBox__xf2ZI {
   display: flex;
